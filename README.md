@@ -1,0 +1,2 @@
+# harahara
+allow
